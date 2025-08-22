@@ -52,6 +52,3 @@ To install the required packages, run:
 ## Results
 
 The notebook prints out the top topics discovered in the reviews, along with the most relevant keywords for each topic. An interactive visualization is provided using `pyLDAvis` to explore the topics and their distributions across the corpus.
-
-ypi.org/project/pyLDAvis/)
-- Amazon for providing public access to review data.
